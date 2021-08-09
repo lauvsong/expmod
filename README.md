@@ -1,5 +1,5 @@
 # expmod
-Simple modular xponntiation based on `openssl`
+Simple modular exponentation based on `openssl`
 
 ## Prerequisite
 - openssl/bn.h

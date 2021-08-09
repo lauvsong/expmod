@@ -43,6 +43,7 @@ int main (int argc, char *argv[])
 	BIGNUM *e = BN_new();
 	BIGNUM *m = BN_new();
 	BIGNUM *res = BN_new();
+    
     if(argc != 4){
         printf("usage: exp base exponent modulus\\n");
         return -1;
